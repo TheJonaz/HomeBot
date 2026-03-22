@@ -1,6 +1,6 @@
 # HomeBot
 
-**A lightweight IRC bot written in Python.**
+**A lightweight IRC bot written 100% by Claude Code in Python.**
 
 > Version 0.0.0.1 — by Jonaz &lt;irc@thern.io&gt;
 
